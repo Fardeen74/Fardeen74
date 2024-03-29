@@ -6,7 +6,7 @@
 <code><img height="40" alt="nextjs" src="https://imgs.search.brave.com/obMNHdu_oPgpluv1tJBbwCnP7dLGtDwcrDl2o6S5efg/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9zdHls/ZXMucmVkZGl0bWVk/aWEuY29tL3Q1XzNo/N3lpL3N0eWxlcy9j/b21tdW5pdHlJY29u/X25zcm96aHI5aWds/OTEucG5n"></code>
 <code><img height="40" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="40" alt="python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="40" alt="tailwindcss" src="https://imgs.search.brave.com/MwJPMvgHoc9D9AFuSWs3Mu2twAb4MrrImwSE91aNY_A/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMtMDAuaWNvbmR1/Y2suY29tL2Fzc2V0/cy4wMC90YWlsd2lu/ZC1jc3MtaWNvbi0y/MDQ4eDEyMjktdThk/enQ0dWgucG5n"></code>
+<code><img height="40" alt="tailwindcss" src="https://imgs.search.brave.com/z7iJLbhaPFkzOd9Eo9JR0jLxbEy7hIPL22801vfSs3M/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9sb2dv/d2lrLmNvbS9jb250/ZW50L3VwbG9hZHMv/aW1hZ2VzL3RhaWx3/aW5kLWNzczMyMzIu/bG9nb3dpay5jb20u/d2VicA"></code>
 
 ### 🤝 Connect:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fardeen-shaikh74)
