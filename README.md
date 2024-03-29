@@ -1,12 +1,16 @@
 ### Fardeen Shaikh
 
+***
+
 <p align="center">
   <a href="https://github.com/Fardeen74">
       <img src="https://skillicons.dev/icons?i=js,ts,react,next,tailwind" />
   </a>
 </p>
 
-[![My Skills](https://skillicons.dev/icons?i=py,java,html,css,nodejs,git,mongodb,figma,vite)]
+***
+
+![My Skills](https://skillicons.dev/icons?i=py,java,html,css,nodejs,git,mongodb,figma,vite)
 
 ### 🤝 Connect:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fardeen-shaikh74)
