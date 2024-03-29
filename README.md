@@ -4,13 +4,13 @@
 
 <p align="center">
   <a href="https://github.com/Fardeen74">
-      <img src="https://skillicons.dev/icons?i=js,ts,react,next,tailwind" />
+      <img src="https://skillicons.dev/icons?i=js,ts,py,java,html,css />
   </a>
 </p>
 
 ***
 
-![My Skills](https://skillicons.dev/icons?i=py,java,html,css,nodejs,git,mongodb,figma,vite)
+![My Skills](https://skillicons.dev/icons?i=react,next,tailwind,nodejs,git,mongodb,figma,vite&perline=6)
 
 ### 🤝 Connect:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fardeen-shaikh74)
