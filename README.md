@@ -2,7 +2,9 @@
 
 <p align="center">
   <a href="https://github.com/Fardeen74">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,next,tailwind" />
+    <code> 
+      <img src="https://skillicons.dev/icons?i=js,ts,react,next,tailwind" />
+    </code>
   </a>
 </p>
 
