@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/Fardeen74">
-      <img src="https://skillicons.dev/icons?i=js,ts,py,java,html,css />
+      <img src="https://skillicons.dev/icons?i=js,ts,py,java,html,css"/>
   </a>
 </p>
 
