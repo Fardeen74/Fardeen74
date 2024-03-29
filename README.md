@@ -10,7 +10,7 @@
 
 ***
 
-![My Skills](https://skillicons.dev/icons?i=react,next,tailwind,nodejs,git,mongodb,figma,vite&perline=6)
+![My Skills](https://skillicons.dev/icons?i=react,next,tailwind,nodejs,git,mongodb,figma,vite&perline=6&theme=light)
 
 ### 🤝 Connect:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fardeen-shaikh74)
