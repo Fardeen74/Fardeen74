@@ -1,8 +1,7 @@
 ### Fardeen Shaikh
 
-![Fardeen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fardeen74&show_icons=true&theme=radical&include_all_commits=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fardeen74&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Fardeen74&show_icons=true&theme=radical&include_all_commits=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fardeen74&layout=donut" />
 <!--
 **Fardeen74/Fardeen74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
