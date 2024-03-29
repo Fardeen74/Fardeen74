@@ -2,12 +2,8 @@
 
 ***
 
-<p align="center">
-  <a href="https://github.com/Fardeen74">
-      <img src="https://skillicons.dev/icons?i=js,ts,py,java,html,css"/>
-  </a>
-</p>
-
+ ![My Languages](https://skillicons.dev/icons?i=js,ts,py,java,html,css)
+ 
 ***
 
 ![My Skills](https://skillicons.dev/icons?i=react,next,tailwind,nodejs,git,mongodb,figma,vite&perline=6&theme=dark)
