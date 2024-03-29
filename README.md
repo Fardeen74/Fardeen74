@@ -2,11 +2,11 @@
 
 <p align="center">
   <a href="https://github.com/Fardeen74">
-    <code> 
       <img src="https://skillicons.dev/icons?i=js,ts,react,next,tailwind" />
-    </code>
   </a>
 </p>
+
+[![My Skills](https://skillicons.dev/icons?i=py,java,html,css,nodejs,git,mongodb,figma,vite)]
 
 ### 🤝 Connect:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fardeen-shaikh74)
