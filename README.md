@@ -1,30 +1,33 @@
-### Fardeen Shaikh
+# 🎯 Fardeen Shaikh
+Hii, Fardeen Shaikh here. Im a Software Developer and Computer Science enthusiatist currently pursuing **Masters of Computer Applications (MCA)** at MET Insitute of Computer Scicence, Mumbai, IN. 
 
-***
-
+## My Skills
  ![My Languages](https://skillicons.dev/icons?i=js,ts,py,java,html,css)
  
-***
+---
 
-![My Skills](https://skillicons.dev/icons?i=react,next,tailwind,nodejs,git,mongodb,figma,vite&perline=6&theme=dark)
+![My Skills](https://skillicons.dev/icons?i=react,next,tailwind,nodejs,git,mongodb,figma,npm,vite,vscode,md,obsidian&perline=6&theme=dark)
 
-### 🤝 Connect:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fardeen-shaikh74)
-
-<a href="https://github.com/Fardeen74">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Fardeen74&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true" />
+## 🤝 Lets Connect
+<a href="https://linkedin.com/in/fardeen-shaikh74">
+  <img height=30 src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
 </a>
-<a href="https://github.com/Fardeen74">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fardeen74&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-</a>
+
+---
+
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fardeen74&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+
 
 ### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Fardeen74&theme=onestar&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Fardeen74&theme=onestar&no-frame=false&no-bg=false&margin-w=4&rank=-C)
 
 ---
 
 
 <!--
+<a href="https://github.com/Fardeen74">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Fardeen74&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true" />
+</a>
 
 <code><img height="40" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="40" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
