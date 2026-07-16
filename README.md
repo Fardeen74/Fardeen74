@@ -1,6 +1,7 @@
 # 🎯 Fardeen Shaikh
-📍 Hii, Fardeen Shaikh here. Im a Software Developer and Computer Science enthusiatist currently pursuing **Masters of Computer Applications (MCA)** at MET Institute of Computer Scicence, Mumbai, IN. <br /> <br />
-📍 I am seeking a position that will allow me to develop and strengthen my skills while applying them to achieve both personal and professional goals. Additionally, I am eager to learn and contribute to the innovation and experimentation with technology within the software industry
+💻 Software Developer with 1+ year of professional experience building and maintaining enterprise applications using C#, JavaScript, WINDEV, WEBDEV, and MySQL.
+
+📍 I enjoy solving real-world problems, developing scalable applications, and continuously learning new technologies. Alongside my professional experience, I build full-stack and mobile applications using Next.js, React, TypeScript, React Native, and Python to expand my skills and explore modern software development.
 
 
 ## [🌐 My Portfolio Website](https://fardeenshaikh.vercel.app/)
